@@ -18,3 +18,7 @@ pin "@fullcalendar/core/preact.js", to: "https://ga.jspm.io/npm:@fullcalendar/co
 pin "preact", to: "https://ga.jspm.io/npm:preact@10.12.1/dist/preact.module.js"
 pin "preact/compat", to: "https://ga.jspm.io/npm:preact@10.12.1/compat/dist/compat.module.js"
 pin "preact/hooks", to: "https://ga.jspm.io/npm:preact@10.12.1/hooks/dist/hooks.module.js"
+# FullCalendar locale and list plugin
+pin "@fullcalendar/core/locales/ja", to: "https://ga.jspm.io/npm:@fullcalendar/core@6.1.9/locales/ja.js"
+pin "@fullcalendar/core/locales/ja.js", to: "https://ga.jspm.io/npm:@fullcalendar/core@6.1.9/locales/ja.js"
+pin "@fullcalendar/list", to: "https://ga.jspm.io/npm:@fullcalendar/list@6.1.9/index.js"
